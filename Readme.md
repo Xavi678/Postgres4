@@ -6,11 +6,12 @@
   <li>Creem les taules,cities i capitals amb herencia<br><img src="https://github.com/Xavi678/Postgres4/blob/master/imatges/Selecci%C3%B3n_002.png"/><br></li><li>Inserim dades<br><img src="https://github.com/Xavi678/Postgres4/blob/master/imatges/Selecci%C3%B3n_003.png"/><br>
   <img src="https://github.com/Xavi678/Postgres4/blob/master/imatges/Selecci%C3%B3n_004.png"/><br>
   <img src="https://github.com/Xavi678/Postgres4/blob/master/imatges/Selecci%C3%B3n_005.png"/></li>
-  <li>Podem veure que quan inserim informació en la taula capitals, podem inserir camps de les cities degut a l'herencia</li>
+  <li>Podem veure que quan inserim informació en la taula capitals, podem inserir camps de les cities degut a l'herencia, i que quan inserim informació a la classe capitals, aquesta també s'inserta a la classe cities</li>
  
 </ul>
 
 2 - Per què creieu que s'utilitza el tableoid ? i el pg_class ?
+-S'utilitzen per obtenir informació sobre les taules, podem obtenir l'Id de la taula, una taula amb herencia tindrà el mateix id que el seu pare, i per tant podrem veure l'herència
 
 3 - Al llegir la documentació. Penseu que es pot utilitzar l'herència múltiple en Postgres ? Fiqueu algun exemple
 
