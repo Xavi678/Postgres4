@@ -2,6 +2,14 @@
 
 1 - Seguiu l'exemple explicat: creant la taula Cities i Capitals. Proveu de fer insercions en ambdues taules i veure els resultats.
 
+<ul>
+  <li>Creem les taules,cities i capitals amb herencia<br><img src="https://github.com/Xavi678/Postgres4/blob/master/imatges/Selecci%C3%B3n_002.png"/><br></li><li>Inserim dades<br><img src="https://github.com/Xavi678/Postgres4/blob/master/imatges/Selecci%C3%B3n_003.png"/><br>
+  <img src="https://github.com/Xavi678/Postgres4/blob/master/imatges/Selecci%C3%B3n_004.png"/><br>
+  <img src="https://github.com/Xavi678/Postgres4/blob/master/imatges/Selecci%C3%B3n_005.png"/></li>
+  <li>Podem veure que quan inserim informació en la taula capitals, podem inserir camps de les cities degut a l'herencia</li>
+ 
+</ul>
+
 2 - Per què creieu que s'utilitza el tableoid ? i el pg_class ?
 
 3 - Al llegir la documentació. Penseu que es pot utilitzar l'herència múltiple en Postgres ? Fiqueu algun exemple
