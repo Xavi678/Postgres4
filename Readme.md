@@ -14,7 +14,7 @@
 - S'utilitzen per obtenir informació sobre les taules, podem obtenir l'Id de la taula, una taula amb herencia tindrà el mateix id que el seu pare, i per tant podrem veure l'herència
 
 3 - Al llegir la documentació. Penseu que es pot utilitzar l'herència múltiple en Postgres ? Fiqueu algun exemple
-- <img src="https://github.com/Xavi678/Postgres4/blob/master/imatges/Selecci%C3%B3n_006.png"/> Si, com podem veure en aquest exemple una taula pot heredar d'una o més taules
+ <img src="https://github.com/Xavi678/Postgres4/blob/master/imatges/Selecci%C3%B3n_006.png"/> - Si, com podem veure en aquest exemple una taula pot heredar d'una o més taules
 
 4 - Identifiqueu algunes limitacions de l'herència en Postgres. 
 Estudieu com es propaguen les foreign keys o els canvis de taules etc.. d'una classe "pare" o superclasse a les seves classes "filles". 
